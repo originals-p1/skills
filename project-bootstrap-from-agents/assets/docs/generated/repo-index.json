@@ -1,0 +1,27 @@
+{
+  "repo": {
+    "name": "REPLACE_ME",
+    "language": "REPLACE_ME",
+    "entrypoint": "REPLACE_ME",
+    "purpose": "Describe the repository's purpose."
+  },
+  "docs": {
+    "agent_guide": "AGENTS.md",
+    "architecture": "ARCHITECTURE.md",
+    "validation": "docs/VALIDATION.md",
+    "task_recipes": "docs/TASK_RECIPES.md",
+    "plans_root": "docs/exec-plans",
+    "exec_plans_active": "docs/exec-plans/active",
+    "exec_plans_completed": "docs/exec-plans/completed"
+  },
+  "areas": [],
+  "key_files": [],
+  "task_types": [
+    "bugfix",
+    "feature",
+    "refactor",
+    "perf",
+    "docs",
+    "analysis"
+  ]
+}
