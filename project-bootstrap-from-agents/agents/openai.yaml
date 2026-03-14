@@ -1,4 +1,4 @@
 interface:
   display_name: "Project Bootstrap"
-  short_description: "Initialize AGENTS-style project governance."
-  default_prompt: "Use $project-bootstrap-from-agents to initialize this repository with AGENTS-style governance files and docs scaffolding."
+  short_description: "Initialize AGENTS-style governance and adapt docs to the repo."
+  default_prompt: "Use $project-bootstrap-from-agents to initialize this repository with AGENTS-style governance files, then adapt the generated docs to the actual codebase."
