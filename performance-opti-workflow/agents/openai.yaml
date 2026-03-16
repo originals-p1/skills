@@ -1,0 +1,4 @@
+interface:
+  display_name: "Performance Opti Workflow"
+  short_description: "Run a disciplined performance workflow with reproducible benchmarks and optimization TODOs."
+  default_prompt: "Use $performance-opti-workflow to analyze performance bottlenecks, create optimization TODOs, run reproducible baseline benchmarks, and compare before/after results."
